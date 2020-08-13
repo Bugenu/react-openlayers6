@@ -3,3 +3,11 @@
   height: 100%;
   position: fixed;
 }
+
+.date_select {
+  left: 50px;
+  top: 8px;
+  text-align: center;
+  width: 150px;
+  height: 50x;
+}
